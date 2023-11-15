@@ -8,4 +8,6 @@ https://github.com/Kilobyte1000/visualisations/assets/59469337/414c2f06-c3c6-400
 
 
 2. Sheet silicates
-   ![sheet-silicate](https://github.com/Kilobyte1000/visualisations/assets/59469337/8673c649-1609-4429-bfda-42a182c8ea20)
+
+   ![sheet-silicate](https://github.com/Kilobyte1000/visualisations/assets/59469337/c0c441f9-2f82-4672-9bee-399591decd98)
+
